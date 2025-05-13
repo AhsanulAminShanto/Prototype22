@@ -1,0 +1,29 @@
+# Ignore Unity auto-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+[Oo]bj/
+
+# Optional - Ignore build outputs
+[Bb]uild/
+[Bb]uilds/
+
+# Optional - Ignore memory capture data
+[Mm]emoryCaptures/
+
+# Ignore user-specific Unity settings
+UserSettings/
+
+# Ignore Unity package cache
+Packages/com.unity.*
+
+# Ignore Visual Studio / Rider IDE files
+.vs/
+*.sln
+*.csproj
+*.user
+*.unityproj
+
+# Ignore macOS / Windows system files
+.DS_Store
+Thumbs.db
